@@ -1,4 +1,4 @@
-# Python-for-Quant-Finance-Hack-Day-
+# Python-for-Quant-Finance-Hack-Day
 
 * Part of working file created during Python for Quant Finance Hack Day for illustration purposes 
 * You can find the meet up group organizing this event with link bellow
