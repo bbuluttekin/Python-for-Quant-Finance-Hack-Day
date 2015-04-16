@@ -5,4 +5,6 @@
 
 To see the static HTML version of file please check the link below
 
+[Python for Quant Finance](http://nbviewer.ipython.org/github/bbuluttekin/Python-for-Quant-Finance-Hack-Day-/blob/master/Python%20for%20Quant%20Finance%20Hack%20Day.ipynb)
+
 
